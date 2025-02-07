@@ -10,7 +10,7 @@ This implementation uses TensorFlow 2.x and Keras for building and training the 
 
 
 ## Requirements
-**I trained the and saved the best model, you can simply load the model and do predictions, in Jupyter notebook!**
+**I trained and saved the best model, you can simply load the model and do predictions, in Jupyter notebook!**
 
 To run this project, you need the following Python libraries:
 
